@@ -18751,7 +18751,7 @@ section {
   left: -40px;
   color: transparent;
   font-size: 1.75rem;
-  background: url(../images/quote.png) no-repeat;
+  /* background: url(../images/quote.png) no-repeat; */
 }
 
 .testimonial .testimonial-item .testimonial-destination {
